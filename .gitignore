@@ -1,0 +1,59 @@
+# General OS junk (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.fseventsd
+.Trashes
+.Trash-*
+
+# Node/JavaScript (safe even if not used yet)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output / caches
+.dist/
+dist/
+build/
+out/
+.tmp/
+.temp/
+.cache/
+coverage/
+.vscode-test/
+
+# Environment files / secrets
+.env
+.env.*
+*.local
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+logs/
+*.log
+*.log.*
+*.pid
+*.seed
+*.pid.lock
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+
+OPTIMIZATION_SUMMARY.md
+
+.agents
+.scratch
+skills-lock.json
