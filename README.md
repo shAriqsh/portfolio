@@ -34,24 +34,6 @@ A clean, high-performance personal portfolio showcasing experience, projects, sk
 └── README.md
 ```
 
-## Getting Started
-- **Option A**: Open `index.html` directly in any modern browser.
-- **Option B** (recommended for local development):
-```bash
-# from the portfolio directory
-python -m http.server 8000
-# then open http://localhost:8000 in your browser
-```
-
-## Deployment (GitHub Pages)
-1. Push changes to GitHub:
-   ```bash
-   git push origin main
-   ```
-2. Go to **Settings** → **Pages** in your GitHub repository.
-3. Under **Build and deployment**, set source to **Deploy from a branch**, choose `main` branch and `/(root)`, then click **Save**.
-4. Your site will be published at: `https://shariqsh.github.io/portfolio/`
-
 ## Contact
 - **Email**: shariqshariff003@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shariqshariff
